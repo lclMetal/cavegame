@@ -1,0 +1,23 @@
+CAVE GAME CHANGELOG
+
+24.8.2022:
+Moikka Otso! Ei tartte säikähtää näitä ikkunoita, mitkä
+aukes. Lisäsin vaan tähän vielä tämmösen changelog-ominaisuuden.
+Changelog tarkoittaa muutoslokia, eli tähän tiedostoon kirjaan
+suunnilleen mitä oon tehnyt uudessa versiossa. Uusimmat jutut
+laitan aina tähän ylimmäksi.
+
+Tässä versiossa on nyt alku Ankenströmin kaupasta. Kaupassa
+näkyy 3 eri kokoista punaista potionia, ja Ankenström kertoo
+niiden hinnat. Jos sulla on tarpeeksi rahaa, ja klikkaat
+potionia, Ankenström vie sun rahat (siis sen summan minkä se
+potioni maksaa), mutta et vielä saa mitään :DDD
+
+Lisäsin myös builds-kansion, josta löytyy sekä ikkunatilassa
+että koko ruudussa pyörivä buildi pelistä.
+
+Ja pelissä on nyt testaamista auttava cheatti, jolla voi
+teleportata kaupan luokse. Näppäilet vaan "teleport", niin
+se siirtää sut sinne.
+
+t. Lassi
