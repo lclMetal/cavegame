@@ -6,6 +6,9 @@ Tässä on uusi rivi tekstiä :OOOOOO
 
 ## Pelisuunnitelma
 
+- Ankenströmin kaupan alapuolelle kyltti, joka näyttää että kauppa on
+  ylhäällä
+
 ### Potionit
 
 - Punainen: elämä
