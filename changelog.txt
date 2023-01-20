@@ -1,5 +1,8 @@
 CAVE GAME CHANGELOG
 
+20.1.2023:
+Lisätty musiikki Ankenströmin kauppaan.
+
 24.8.2022:
 Moikka Otso! Ei tartte säikähtää näitä ikkunoita, mitkä
 aukes. Lisäsin vaan tähän vielä tämmösen changelog-ominaisuuden.
