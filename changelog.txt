@@ -1,5 +1,8 @@
 CAVE GAME CHANGELOG
 
+21.1.2023:
+Inventorysysteemejä.
+
 20.1.2023:
 Ankenström suuttuu, jos yrittää ottaa jotain jos ei ole
 tarpeeksi rahaa.
