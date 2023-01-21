@@ -26,6 +26,7 @@ Tässä on uusi rivi tekstiä :OOOOOO
 - Shop window: (OGA, CharlesGabriel (and apparently Antifarea), CC-BY 3.0, (edited)) https://opengameart.org/content/10-basic-message-boxes
 - Potions: (OGA, Bonsaiheldin, CC-BY-SA 3.0) https://opengameart.org/content/shiny-rpg-potions-16x16
 - Speech bubble: (OGA, Parriah, CC0 (edited)) https://opengameart.org/content/2d-speech-bubbles
+- Hotbar: (OGA, hernandack, CC-BY 3.0) https://opengameart.org/content/hck-ui-set-1-2d
 
 ### Sounds
 
@@ -34,6 +35,7 @@ Tässä on uusi rivi tekstiä :OOOOOO
 - Shimmer sound: (OGA, The Berklee College of Music (submitted by qubodup), CC-BY 3.0) https://opengameart.org/content/shimmer-glitter-magic
 - Coin pickup sound: (OGA, Varkalandar (Hansjörg Malthaner: http://opengameart.org/users/varkalandar), CC-BY 3.0, (edited (=cut))) https://opengameart.org/content/coin-sounds-0
 - Duck sounds: (OGA, Secretlondon (submitted by qubodup), CC-BY-SA 3.0, (edited (=cut))) https://opengameart.org/content/farm-animals
+- Duck growls: (OGA, congusbongus, CC-BY 3.0) https://opengameart.org/content/dog-growls
 
 ### Musics
 

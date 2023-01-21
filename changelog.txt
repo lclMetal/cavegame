@@ -1,6 +1,10 @@
 CAVE GAME CHANGELOG
 
 20.1.2023:
+Ankenström suuttuu, jos yrittää ottaa jotain jos ei ole
+tarpeeksi rahaa.
+
+20.1.2023:
 Lisätty musiikki Ankenströmin kauppaan.
 
 24.8.2022:
