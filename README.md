@@ -27,6 +27,7 @@ Tässä on uusi rivi tekstiä :OOOOOO
 - Potions: (OGA, Bonsaiheldin, CC-BY-SA 3.0) https://opengameart.org/content/shiny-rpg-potions-16x16
 - Speech bubble: (OGA, Parriah, CC0 (edited)) https://opengameart.org/content/2d-speech-bubbles
 - Hotbar: (OGA, hernandack, CC-BY 3.0) https://opengameart.org/content/hck-ui-set-1-2d
+- HP bar: (OGA, wolvelaw, CC0) https://opengameart.org/content/life-bar
 
 ### Sounds
 
