@@ -1,5 +1,10 @@
 CAVE GAME CHANGELOG
 
+22.1.2023:
+Korjattu bugi, mikä sai pelin kaatumaan jos klikkasi tyhjää ruutua kaupassa.
+Päivitin myös builds-kansiossa olevat .exe-tiedostot, joista peliä voi pelata
+ilman että tarvitsee käynnistää Game Editoria.
+
 21.1.2023:
 Inventorysysteemejä.
 
