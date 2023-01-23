@@ -1,5 +1,10 @@
 CAVE GAME CHANGELOG
 
+23.1.2023:
+Lisätty koodia ääniasetusten hallinnointiin, mutta ei vielä käyttöliittymää
+niiden säätämiseen. Lisätty myös punaisella rastilla peitetty kolikko
+Ankenströmin murinapuhekuplaan :D Päivitetty buildit.
+
 22.1.2023:
 Lisätty nimikyltti Ankenströmin kauppanäkymään. Nostettu pelaajan
 juoksunopeutta. Päivitetty buildit.
